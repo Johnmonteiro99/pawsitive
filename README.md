@@ -6,7 +6,7 @@ A clean, responsive website built for a pet-sitting business to showcase service
 
 ## 🌐 Live Demo
 
-https://yourusername.github.io/pawsitive/
+https://johnmonteiro99.github.io/pawsitive/
 
 ---
 
